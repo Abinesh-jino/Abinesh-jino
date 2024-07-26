@@ -67,6 +67,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="40" />
   <img src="https://codekitapp.com/images/help/free-tailwind-icon@2x.png" height="40" alt="tailwind logo"  />
+  <img width="40" />
+  <img src="https://nodesource.com/media/2016/Jul/nodejs_new_pantone_black-1469199372144.png" height="40" alt="tailwind logo"  />
 </div>
 
 ###
